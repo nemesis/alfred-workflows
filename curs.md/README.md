@@ -9,5 +9,5 @@ curs.md
 
 ## Usage example:
 
-**curs 50 eur to usd**
-**curs 500 mdl to eur***
+* **curs 50 eur to usd**
+* **curs 500 mdl to eur**
